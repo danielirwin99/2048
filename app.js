@@ -45,7 +45,7 @@ function hasEmptyTile() {
 
 function setTwo() {
   if (!hasEmptyTile()) {
-    document.querySelector(".game-over").innerText = "Game Over!";
+    // document.querySelector(".game-over").innerText = "Game Over!";
     return;
   }
 

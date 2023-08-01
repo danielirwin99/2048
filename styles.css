@@ -3,6 +3,7 @@ body {
   text-align: center;
   box-sizing: border-box;
   background: #faf8ef;
+  overflow: hidden;
 }
 
 .title {
