@@ -1,5 +1,6 @@
-2048 Game
-Welcome to the 2048 game! This is a classic puzzle game where your goal is to combine tiles with the same number to reach the elusive 2048 tile. The game board consists of a 4x4 grid, and you can move the tiles in four directions: up, down, left, and right.
+Welcome to the 2048 game! 
+
+This is a classic puzzle game where your goal is to combine tiles with the same number to reach the elusive 2048 tile. The game board consists of a 4x4 grid, and you can move the tiles in four directions: up, down, left, and right.
 
 How to Play
 Objective: The objective of the game is to merge tiles with the same number by sliding the entire grid in one of the four directions (up, down, left, or right). When two tiles with the same number collide while moving, they merge into one tile with their sum.
